@@ -3,5 +3,5 @@ Purpose: Industrial noise effect on 79 GHz RADAR analysis
 
 Main script called RADAR_Demo is written as a live script ( use a matlab version supporting the type of files .mlx) 
 
-Run only called RADAR_Demo, functions will be called during script is running
+Run only RADAR_Demo, functions will be called during script is running
 
